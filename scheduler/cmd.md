@@ -2,7 +2,7 @@
 
 ***本文档是阅读源码时的一些个人理解，未必全部正确，如有错误，请指正。***
 
-scheduler 使用[cobra](../../../go/commandline/cobra/readme.md)来处理参数。
+scheduler 使用[cobra](https://github.com/ycyxuehan/blog/tree/main/go/commandline/cobra/readme.md)来处理参数。
 
 ## main()
 
